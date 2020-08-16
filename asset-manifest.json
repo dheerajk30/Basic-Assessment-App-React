@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Basic-Assessment-App-React/static/css/main.b0dc0b06.chunk.css",
+    "main.js": "/Basic-Assessment-App-React/static/js/main.a82301e4.chunk.js",
+    "main.js.map": "/Basic-Assessment-App-React/static/js/main.a82301e4.chunk.js.map",
+    "runtime-main.js": "/Basic-Assessment-App-React/static/js/runtime-main.1d9d933a.js",
+    "runtime-main.js.map": "/Basic-Assessment-App-React/static/js/runtime-main.1d9d933a.js.map",
+    "static/js/2.df944c40.chunk.js": "/Basic-Assessment-App-React/static/js/2.df944c40.chunk.js",
+    "static/js/2.df944c40.chunk.js.map": "/Basic-Assessment-App-React/static/js/2.df944c40.chunk.js.map",
+    "index.html": "/Basic-Assessment-App-React/index.html",
+    "precache-manifest.dadf64b7959668fe0f1884267aafa897.js": "/Basic-Assessment-App-React/precache-manifest.dadf64b7959668fe0f1884267aafa897.js",
+    "service-worker.js": "/Basic-Assessment-App-React/service-worker.js",
+    "static/css/main.b0dc0b06.chunk.css.map": "/Basic-Assessment-App-React/static/css/main.b0dc0b06.chunk.css.map",
+    "static/js/2.df944c40.chunk.js.LICENSE.txt": "/Basic-Assessment-App-React/static/js/2.df944c40.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Basic-Assessment-App-React/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d9d933a.js",
+    "static/js/2.df944c40.chunk.js",
+    "static/css/main.b0dc0b06.chunk.css",
+    "static/js/main.a82301e4.chunk.js"
+  ]
+}
